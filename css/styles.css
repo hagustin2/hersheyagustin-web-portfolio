@@ -1,0 +1,138 @@
+nav,
+footer {
+    font-family: "Parkinsans", sans-serif;
+    background-color: #676365;
+    color: #ffef86;
+}
+
+main {
+    background-color: #ffef86;
+    
+}
+
+main h1 {
+    font-family: "Ribeye", serif;
+    color:#676365;
+}
+
+main h2,
+main h3,
+main h5 {
+    color:#676365;
+    font-family: "DM Serif Text", serif;
+}
+
+p {
+    font-family: "Parkinsans", sans-serif;
+}
+
+a.nav-link {
+    color: #ffef86;
+}
+
+p.card-text{
+    color: #ffef86;
+}
+button.btn {
+    background-color: #676365;
+    color: #ffef86;
+    text-decoration: none;
+}
+button a {
+  text-decoration: none;  /* Removes the underline */
+  color: inherit; 
+}
+.text-link {
+    color: inherit;
+  }
+
+  /* Container for the logo and text */
+.logo-text {
+    display: flex;
+    align-items: center;
+    text-decoration: none;  /* Remove underline from the link */
+    color: inherit; /* Inherit text color */
+  }
+  
+  /* Logo image styling */
+  .logo {
+    width: 40px;  /* Adjust logo size */
+    height: auto;
+    margin-right: 10px;  /* Space between logo and text */
+  }
+  
+  /* Text styling */
+  .text {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Name styling */
+.name {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Parkinsans";
+    text-transform: uppercase;
+
+  }
+  
+  /* Tagline styling */
+  .tagline {
+    font-size: 14px;
+    font-style: italic;
+  }
+
+  .jumbotron {
+    display: flex;
+  align-items: center; /* Vertically centers content */
+    height: 100vh;
+  }
+
+  #typing-text {
+    font-size: 36px;
+    color: #333;
+    display: inline-block;
+    border-right: 2px solid #333;  /* Blinking cursor */
+    padding-right: 5px;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  ul.nav {
+    font-size: 2rem;
+  }
+  .card-img-top {
+    height: 200px;          /* Fixed height for consistency */
+    object-fit:contain;      /* Ensures the images maintain aspect ratio and cover the area */
+    width: 100%;            /* Ensure image takes up full width of the card */
+  }
+  .card-skills {
+    background-color: #ffef86;
+    border: #676365 0.15rem solid;
+  }
+
+  h5.card-title {
+    text-align: center;
+    padding: 0.5rem;
+  }
+
+/* Darker and bigger buttons */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #676365; /* Dark shade */
+  border-radius: 50%;  /* Make the icon round */
+  width: 50px;  /* Increase the width */
+  height: 50px; /* Increase the height */
+  transform: scale(1.5); /* Make the icon bigger */
+}
+
+/* Optional: Add hover effect to make them even darker */
+.carousel-control-prev:hover .carousel-control-prev-icon,
+.carousel-control-next:hover .carousel-control-next-icon {
+  transform: scale(1.6); /* Make the icon a little bigger on hover */
+  background-color:#676365; /* Solid black when hovered */
+}
+
+span {
+  font-weight: 700px;
+}
