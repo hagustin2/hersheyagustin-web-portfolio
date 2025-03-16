@@ -157,3 +157,12 @@ a.dropdown-item {
   font-style: italic;
   font-weight: 700;
 }
+
+.project-card {
+  background-color: #3d3b3c;
+  color: #ffef86;
+}
+
+.li {
+  font-family: "Parkinsans";
+}
