@@ -4,7 +4,9 @@ footer {
     background-color: #676365;
     color: #ffef86;
 }
-
+.text:hover {
+  text-decoration: none;  
+}
 body {
     background-color: #ffef86;
 }
