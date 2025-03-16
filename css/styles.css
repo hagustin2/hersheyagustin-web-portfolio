@@ -85,7 +85,8 @@ button a {
     font-style: italic;
   }
 
-  .jumbotron {
+  .jumbotron,
+  .contact {
     background-color: #ffef86;
     display: flex;
     align-items: center; 
