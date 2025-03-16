@@ -138,11 +138,11 @@ span {
 }
 
 ul.dropdown-menu {
-  background-color: #3d3b3c;
+  background-color: #676365
  
 }
 a.dropdown-item:hover {
-  background-color: #ffef86;
-  color:#676365;
+  background-color: #3d3b3c;
+  color:#ffef86
 
 }
