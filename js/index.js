@@ -1,4 +1,4 @@
-
+// For the first typing effect (for the paragraph)
 const text = "I design and develop optimized and user-friendly websites.";
 let index = 0;
 const typingElement = document.querySelector('.typing-text'); 
@@ -10,3 +10,7 @@ function typeMessage1() {
     setTimeout(typeMessage1, 50);
   }
 }
+window.addEventListener('load', () => {
+  typeMessage1();
+
+});
