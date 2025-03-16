@@ -45,36 +45,34 @@ button.btn {
     text-decoration: none;
 }
 button a {
-  text-decoration: none;  /* Removes the underline */
+  text-decoration: none;  
   color: inherit; 
 }
 .text-link {
     color: inherit;
   }
 
-  /* Container for the logo and text */
 .logo-text {
     display: flex;
     align-items: center;
-    text-decoration: none;  /* Remove underline from the link */
-    color: inherit; /* Inherit text color */
+    text-decoration: none;  
+    color: inherit;
   }
   
-  /* Logo image styling */
+  
   .logo {
-    width: 40px;  /* Adjust logo size */
+    width: 40px;  
     height: auto;
-    margin-right: 10px;  /* Space between logo and text */
+    margin-right: 10px;  
   }
   
-  /* Text styling */
+
   .text {
     display: flex;
     flex-direction: column;
   }
-  
-  /* Name styling */
-.name {
+
+  .name {
     font-size: 24px;
     font-weight: 700;
     font-family: "Parkinsans";
@@ -82,15 +80,15 @@ button a {
 
   }
   
-  /* Tagline styling */
   .tagline {
     font-size: 14px;
     font-style: italic;
   }
 
   .jumbotron {
+    background-color: #ffef86;
     display: flex;
-    align-items: center; /* Vertically centers content */
+    align-items: center; 
     height: 100vh;
   }
 
@@ -98,7 +96,7 @@ button a {
     font-size: 36px;
     color: #333;
     display: inline-block;
-    border-right: 2px solid #333;  /* Blinking cursor */
+    border-right: 2px solid #333; 
     padding-right: 5px;
     white-space: nowrap;
     overflow: hidden;
@@ -108,9 +106,9 @@ button a {
     font-size: 2rem;
   }
   .card-img-top {
-    height: 200px;          /* Fixed height for consistency */
-    object-fit:contain;      /* Ensures the images maintain aspect ratio and cover the area */
-    width: 100%;            /* Ensure image takes up full width of the card */
+    height: 200px;          
+    object-fit:contain;      
+    width: 100%;           
   }
   .card-skills {
     background-color: #ffef86;
@@ -122,21 +120,20 @@ button a {
     padding: 0.5rem;
   }
 
-/* Darker and bigger buttons */
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: #676365; /* Dark shade */
-  border-radius: 50%;  /* Make the icon round */
-  width: 50px;  /* Increase the width */
-  height: 50px; /* Increase the height */
-  transform: scale(1.5); /* Make the icon bigger */
+  background-color: #676365; 
+  border-radius: 50%;  
+  width: 50px;  
+  height: 50px; 
+  transform: scale(1.5); 
 }
 
-/* Optional: Add hover effect to make them even darker */
+
 .carousel-control-prev:hover .carousel-control-prev-icon,
 .carousel-control-next:hover .carousel-control-next-icon {
-  transform: scale(1.6); /* Make the icon a little bigger on hover */
-  background-color:#676365; /* Solid black when hovered */
+  transform: scale(1.6); 
+  background-color:#676365; 
 }
 
 span {
