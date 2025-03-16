@@ -154,5 +154,6 @@ a.dropdown-item {
 
 .myskills,
 .myroles {
-  text-decoration: double;
+  font-style: italic;
+  font-weight: 600px;
 }
