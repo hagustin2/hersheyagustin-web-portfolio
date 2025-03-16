@@ -5,6 +5,10 @@ footer {
     color: #ffef86;
 }
 
+body {
+  background-color: #ffef86;
+}
+
 main {
     background-color: #ffef86;
     
@@ -84,7 +88,7 @@ button a {
 
   .jumbotron {
     display: flex;
-  align-items: center; /* Vertically centers content */
+    align-items: center; /* Vertically centers content */
     height: 100vh;
   }
 
