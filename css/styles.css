@@ -174,3 +174,7 @@ a.dropdown-item {
 .li {
   font-family: "Parkinsans";
 }
+
+.project-description {
+  align-items: center;
+}
