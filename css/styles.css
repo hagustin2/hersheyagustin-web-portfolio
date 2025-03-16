@@ -154,7 +154,5 @@ a.dropdown-item {
 
 .myskills,
 .myroles {
-  color: #676365;
-  text-decoration: #676365;
-  text-decoration: underline;
+  text-decoration: double;
 }
