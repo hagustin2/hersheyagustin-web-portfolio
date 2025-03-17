@@ -11,14 +11,14 @@ a.logo-text:hover,
   color: #ffef86;
 }
 
-/* body {
+body {
     background-color: #ffef86 !important;
 }
 
 main {
     background-color: #ffef86;
     
-} */
+}
 
 main h1 {
     font-family: "Ribeye", serif;
@@ -91,7 +91,7 @@ button a {
 
   .jumbotron,
   .contact {
-    /* background-color: #ffef86; */
+    background-color: #ffef86;
     display: flex;
     align-items: center; 
     height: 100vh;
