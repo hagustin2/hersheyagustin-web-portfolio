@@ -1,7 +1,7 @@
 nav,
 footer {
     font-family: "Parkinsans", sans-serif;
-    background-color: #676365;
+    background-color: #3d3b3c;
     color: #ffef86;
 }
 
@@ -22,13 +22,13 @@ main {
 
 main h1 {
     font-family: "Ribeye", serif;
-    color:#676365;
+    color:#3d3b3c;
 }
 
 main h2,
 main h3,
 main h5 {
-    color:#676365;
+    color:#3d3b3c;
     font-family: "DM Serif Text", serif;
 }
 
@@ -44,7 +44,7 @@ p.card-text{
     color: #ffef86;
 }
 button.btn {
-    background-color: #676365;
+    background-color: #3d3b3c;
     color: #ffef86;
     text-decoration: none;
 }
@@ -54,7 +54,7 @@ button a {
 }
 .text-link {
     color: inherit;
-  }
+  }+
 
 .logo-text {
     display: flex;
@@ -117,7 +117,7 @@ button a {
   }
   .card-skills {
     background-color: #ffef86;
-    border: #676365 0.15rem solid;
+    border: #3d3b3c 0.15rem solid;
   }
 
   h5.card-title {
@@ -127,7 +127,7 @@ button a {
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: #676365; 
+  background-color: #3d3b3c; 
   border-radius: 50%;  
   width: 50px;  
   height: 50px; 
@@ -138,7 +138,7 @@ button a {
 .carousel-control-prev:hover .carousel-control-prev-icon,
 .carousel-control-next:hover .carousel-control-next-icon {
   transform: scale(1.6); 
-  background-color:#676365; 
+  background-color:#3d3b3c; 
 }
 
 span {
@@ -146,7 +146,7 @@ span {
 }
 
 ul.dropdown-menu {
-  background-color: #676365;
+  background-color: #3d3b3c;
   color:#ffef86;
  
 }
