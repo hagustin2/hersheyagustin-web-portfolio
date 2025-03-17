@@ -11,14 +11,14 @@ a.logo-text:hover,
   color: #ffef86;
 }
 
-body {
+/* body {
     background-color: #ffef86 !important;
 }
 
 main {
     background-color: #ffef86;
     
-}
+} */
 
 main h1 {
     font-family: "Ribeye", serif;
