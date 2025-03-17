@@ -5,6 +5,12 @@ footer {
     color: #ffef86;
 }
 
+nav:hover, 
+footer:hover {
+  background-color: #676365;
+  color: #ffef86;
+}
+
 a.logo-text:hover,
 .text:hover {
   text-decoration: none; 
