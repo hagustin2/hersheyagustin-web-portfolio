@@ -5,11 +5,7 @@ footer {
     color: #ffef86;
 }
 
-nav:hover, 
-footer:hover {
-  background-color: #676365;
-  color: #ffef86;
-}
+
 
 a.logo-text:hover,
 .text:hover {
@@ -44,6 +40,11 @@ p {
 
 a.nav-link {
     color: #ffef86;
+}
+
+a.nav-link:hove {
+  background-color: #676365;
+  color: #ffef86;
 }
 
 p.card-text{
