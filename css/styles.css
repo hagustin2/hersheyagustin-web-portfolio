@@ -42,7 +42,7 @@ a.nav-link {
     color: #ffef86;
 }
 
-a.nav-link:hove {
+a.nav-link:hover {
   background-color: #676365;
   color: #ffef86;
 }
